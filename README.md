@@ -23,5 +23,5 @@ Após o preenchimento, o sistema imprime uma saudação personalizada com os dad
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/EriveltonMGit/ContaTerminal.git
+git clone https://github.com/EriveltonMGit/dio-trilha-java-basico.git
 cd ContaTerminal
